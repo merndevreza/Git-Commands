@@ -5,4 +5,5 @@
 - firebase authentication
 - footer added
 - header added
-- stripe added
+- stripe payment gateway added
+- contact form added

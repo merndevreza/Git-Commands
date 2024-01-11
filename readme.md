@@ -7,3 +7,8 @@
 - header added
 - stripe payment gateway added
 - contact form added
+
+# Tech
+- HTML
+- CSS
+- JS

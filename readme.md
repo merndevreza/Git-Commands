@@ -1,4 +1,5 @@
 ## Learning Git Commands
+I am learning important git commands
 
 # Features
 - responsive

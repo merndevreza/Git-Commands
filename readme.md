@@ -4,5 +4,12 @@ I am learning important git commands
 # Features
 - responsive
 - firebase authentication
-- payment gateway added
+- footer added
+- header added
+- stripe payment gateway added
 - contact form added
+
+# Tech
+- HTML
+- CSS
+- JS

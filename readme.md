@@ -1,4 +1,5 @@
 ## Learning Git Commands
+I am learning important git commands
 
 # Features
 - responsive
@@ -12,5 +13,7 @@
 - HTML
 - CSS
 - JS
+- React
+- Next
 
 Git Github Refresher by Tapash Adhikari

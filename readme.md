@@ -13,3 +13,5 @@ I am learning important git commands
 - HTML
 - CSS
 - JS
+- React
+- Next
